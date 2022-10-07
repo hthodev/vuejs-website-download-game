@@ -1,0 +1,14 @@
+{
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "SharedAdmin": {
+    "description": "Auto imported from components/Shared/Admin.vue"
+  },
+  "SharedFooter": {
+    "description": "Auto imported from components/Shared/Footer.vue"
+  },
+  "SharedHeader": {
+    "description": "Auto imported from components/Shared/Header.vue"
+  }
+}

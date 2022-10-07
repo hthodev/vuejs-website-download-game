@@ -1,0 +1,107 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "C:\\\\General\\\\DoAn\\\\webgame\\\\pages\\\\admin\\\\index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_199ce1cc"
+  },
+  {
+    "name": "category",
+    "path": "/category",
+    "component": "C:\\\\General\\\\DoAn\\\\webgame\\\\pages\\\\category.vue",
+    "chunkName": "pages/category",
+    "_name": "_d0ae32b2"
+  },
+  {
+    "name": "search",
+    "path": "/search",
+    "component": "C:\\\\General\\\\DoAn\\\\webgame\\\\pages\\\\search.vue",
+    "chunkName": "pages/search",
+    "_name": "_7fac7a91"
+  },
+  {
+    "name": "ShowProduct",
+    "path": "/ShowProduct",
+    "component": "C:\\\\General\\\\DoAn\\\\webgame\\\\pages\\\\ShowProduct.vue",
+    "chunkName": "pages/ShowProduct",
+    "_name": "_06ccf8f9"
+  },
+  {
+    "name": "signin",
+    "path": "/signin",
+    "component": "C:\\\\General\\\\DoAn\\\\webgame\\\\pages\\\\signin.vue",
+    "chunkName": "pages/signin",
+    "_name": "_76fdf78b"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "C:\\\\General\\\\DoAn\\\\webgame\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup",
+    "_name": "_e8d763fe"
+  },
+  {
+    "name": "admin-product-add",
+    "path": "/admin/product/add",
+    "component": "C:\\\\General\\\\DoAn\\\\webgame\\\\pages\\\\admin\\\\product\\\\add.vue",
+    "chunkName": "pages/admin/product/add",
+    "_name": "_d67854f0"
+  },
+  {
+    "name": "admin-product-delete",
+    "path": "/admin/product/delete",
+    "component": "C:\\\\General\\\\DoAn\\\\webgame\\\\pages\\\\admin\\\\product\\\\delete.vue",
+    "chunkName": "pages/admin/product/delete",
+    "_name": "_0aa73cd8"
+  },
+  {
+    "name": "admin-product-edit",
+    "path": "/admin/product/edit",
+    "component": "C:\\\\General\\\\DoAn\\\\webgame\\\\pages\\\\admin\\\\product\\\\edit.vue",
+    "chunkName": "pages/admin/product/edit",
+    "_name": "_a104fa9a"
+  },
+  {
+    "name": "admin-product-manager",
+    "path": "/admin/product/manager",
+    "component": "C:\\\\General\\\\DoAn\\\\webgame\\\\pages\\\\admin\\\\product\\\\manager.vue",
+    "chunkName": "pages/admin/product/manager",
+    "_name": "_ba95f1d8"
+  },
+  {
+    "name": "admin-user-add",
+    "path": "/admin/user/add",
+    "component": "C:\\\\General\\\\DoAn\\\\webgame\\\\pages\\\\admin\\\\user\\\\add.vue",
+    "chunkName": "pages/admin/user/add",
+    "_name": "_ac4f43a0"
+  },
+  {
+    "name": "admin-user-edit",
+    "path": "/admin/user/edit",
+    "component": "C:\\\\General\\\\DoAn\\\\webgame\\\\pages\\\\admin\\\\user\\\\edit.vue",
+    "chunkName": "pages/admin/user/edit",
+    "_name": "_3cfa0f0b"
+  },
+  {
+    "name": "admin-user-role",
+    "path": "/admin/user/role",
+    "component": "C:\\\\General\\\\DoAn\\\\webgame\\\\pages\\\\admin\\\\user\\\\role.vue",
+    "chunkName": "pages/admin/user/role",
+    "_name": "_64cde912"
+  },
+  {
+    "name": "admin-user-view",
+    "path": "/admin/user/view",
+    "component": "C:\\\\General\\\\DoAn\\\\webgame\\\\pages\\\\admin\\\\user\\\\view.vue",
+    "chunkName": "pages/admin/user/view",
+    "_name": "_24c41626"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\General\\\\DoAn\\\\webgame\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_06d61df9"
+  }
+]
